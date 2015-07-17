@@ -3,11 +3,12 @@
 
 Native iOS app with Google Maps APIs to find parks/community gardens.
 
-Google places have stricted api usage, my api key is open here, however you can only use it for limited usages each day. Please use your own api keys. 
+Google places have stricted api usage, my api key is open here, however you can only use it for limited usages each day. Please use your own api keys. Depending on the location, some non-related places keyword itself as park/garden. see the last picutre. 
+
 
 <img src = "/image/iOS Simulator Screen Shot Jul 17, 2015, 1.25.55 PM.png" width = 270> <img src = "image/iOS Simulator Screen Shot Jul 17, 2015, 1.07.53 PM.png" width = 270> <img src = "image/iOS Simulator Screen Shot Jul 17, 2015, 1.19.58 PM.png" width = 270> 
 
-Depending on how the places, some non-related places keyword itself as park/garden. see the last picutre. 
+CODE
 
 AppDelegate.h GoogleMap Services APIKey:
 
